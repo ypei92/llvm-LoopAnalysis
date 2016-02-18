@@ -1,0 +1,16 @@
+.DS_Store
+.Trashes
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+*.o
+*.so
+
+*~
