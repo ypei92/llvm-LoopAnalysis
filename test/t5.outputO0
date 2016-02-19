@@ -1,0 +1,13 @@
+0: func=foo0, depth=0, subLoops=false, BBs=5, instrs=22, atomics=1, branches=5
+1: func=foo1, depth=0, subLoops=false, BBs=2, instrs=7, atomics=0, branches=2
+2: func=foo1, depth=0, subLoops=false, BBs=3, instrs=10, atomics=0, branches=3
+3: func=main, depth=2, subLoops=false, BBs=2, instrs=7, atomics=0, branches=2
+4: func=main, depth=8, subLoops=false, BBs=6, instrs=20, atomics=0, branches=6
+5: func=main, depth=7, subLoops=true, BBs=4, instrs=30, atomics=0, branches=4
+6: func=main, depth=6, subLoops=true, BBs=4, instrs=40, atomics=0, branches=4
+7: func=main, depth=5, subLoops=true, BBs=4, instrs=50, atomics=0, branches=4
+8: func=main, depth=4, subLoops=true, BBs=4, instrs=60, atomics=0, branches=4
+9: func=main, depth=3, subLoops=true, BBs=4, instrs=70, atomics=0, branches=4
+10: func=main, depth=2, subLoops=true, BBs=6, instrs=94, atomics=1, branches=6
+11: func=main, depth=1, subLoops=true, BBs=5, instrs=112, atomics=1, branches=5
+12: func=main, depth=0, subLoops=true, BBs=8, instrs=133, atomics=1, branches=8

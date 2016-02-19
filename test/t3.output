@@ -1,0 +1,1 @@
+0: func=fib, depth=0, subLoops=false, BBs=1, instrs=8, atomics=0, branches=1

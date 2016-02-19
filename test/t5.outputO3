@@ -1,0 +1,9 @@
+0: func=foo1, depth=0, subLoops=false, BBs=1, instrs=3, atomics=0, branches=0
+1: func=main, depth=2, subLoops=false, BBs=1, instrs=4, atomics=0, branches=1
+2: func=main, depth=6, subLoops=false, BBs=2, instrs=82, atomics=0, branches=2
+3: func=main, depth=5, subLoops=true, BBs=2, instrs=89, atomics=0, branches=2
+4: func=main, depth=4, subLoops=true, BBs=2, instrs=96, atomics=0, branches=2
+5: func=main, depth=3, subLoops=true, BBs=2, instrs=103, atomics=0, branches=2
+6: func=main, depth=2, subLoops=true, BBs=5, instrs=119, atomics=1, branches=5
+7: func=main, depth=1, subLoops=true, BBs=5, instrs=137, atomics=1, branches=5
+8: func=main, depth=0, subLoops=true, BBs=2, instrs=149, atomics=1, branches=2
