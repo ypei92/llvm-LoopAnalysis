@@ -37,7 +37,7 @@ namespace {
             int num_instrs;
             int num_atomics;
             int num_branches;
-
+ 
             LoopNode(){}
             LoopNode(int a = 0 , int b = 0 , int c = 0 , int d = 0) {
                 num_bbs = a;
