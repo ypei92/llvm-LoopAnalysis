@@ -1,0 +1,2 @@
+0: func=main, depth=0, subLoops=false, BBs=1, instrs=4, atomics=0, branches=1
+1: func=main, depth=0, subLoops=false, BBs=1, instrs=4, atomics=0, branches=1

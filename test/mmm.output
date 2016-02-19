@@ -1,0 +1,11 @@
+0: func=init_array, depth=1, subLoops=false, BBs=1, instrs=25, atomics=0, branches=1
+1: func=init_array, depth=0, subLoops=true, BBs=2, instrs=30, atomics=0, branches=2
+2: func=print_array, depth=1, subLoops=false, BBs=3, instrs=16, atomics=0, branches=3
+3: func=print_array, depth=0, subLoops=true, BBs=2, instrs=24, atomics=0, branches=2
+4: func=main, depth=1, subLoops=false, BBs=3, instrs=16, atomics=0, branches=3
+5: func=main, depth=0, subLoops=true, BBs=2, instrs=24, atomics=0, branches=2
+6: func=main, depth=2, subLoops=false, BBs=1, instrs=18, atomics=0, branches=1
+7: func=main, depth=1, subLoops=true, BBs=2, instrs=27, atomics=0, branches=2
+8: func=main, depth=0, subLoops=true, BBs=2, instrs=32, atomics=0, branches=2
+9: func=main, depth=1, subLoops=false, BBs=1, instrs=25, atomics=0, branches=1
+10: func=main, depth=0, subLoops=true, BBs=2, instrs=30, atomics=0, branches=2
